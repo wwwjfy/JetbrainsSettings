@@ -1,0 +1,127 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Remote Python 3.5.2 (ssh://tony@machine:22/home/tony/ve/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="ssh://tony@machine:22/home/tony/ve/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/64396567/1139027996" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/64396567/309237018" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/64396567/201545290" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/64396567/452379848" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/64396567/1990462464" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/64396567/1923148174" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/64396567/1139027996" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/64396567/309237018" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/64396567/201545290" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/64396567/452379848" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/64396567/1990462464" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/64396567/1923148174" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/64396567" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="machine" PORT="22" USERNAME="tony" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="true" USE_AUTH_AGENT="false" INTERPRETER_PATH="/home/tony/ve/bin/python" HELPERS_PATH="/home/tony/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.5.2">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/64396567/1139027996" remote-root="/home/tony/ve/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/64396567/309237018" remote-root="/home/tony/ve/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/64396567/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/64396567/452379848" remote-root="/usr/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/64396567/1990462464" remote-root="/home/tony/ve/lib/python3.5/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/64396567/1923148174" remote-root="/mnt/hgfs/mojigo-api" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/64396567/1139027996" remote-root="/home/tony/ve/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/64396567/309237018" remote-root="/home/tony/ve/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/64396567/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/64396567/452379848" remote-root="/usr/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/64396567/1990462464" remote-root="/home/tony/ve/lib/python3.5/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/64396567/1923148174" remote-root="/mnt/hgfs/mojigo-api" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/64396567/1139027996" remote-root="/home/tony/ve/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/64396567/309237018" remote-root="/home/tony/ve/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/64396567/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/64396567/452379848" remote-root="/usr/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/64396567/1990462464" remote-root="/home/tony/ve/lib/python3.5/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/64396567/1923148174" remote-root="/mnt/hgfs/mojigo-api" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.2 virtualenv at ~/Develop/gino/ve" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.2" />
+      <homePath value="$USER_HOME$/Develop/gino/ve/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Develop/gino/ve/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/Develop/gino/ve/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/Develop/gino/ve/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/2072691613" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Develop/gino" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.2 virtualenv at ~/.virtualenvs/daimler" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.2" />
+      <homePath value="$USER_HOME$/.virtualenvs/daimler/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/daimler/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/daimler/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/daimler/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Develop/daimler-tyre/daimler" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-724873804" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Develop/daimler-tyre" />
+    </jdk>
+  </component>
+</application>

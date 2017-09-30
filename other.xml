@@ -1,0 +1,119 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Django</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Less</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyUnresolvedReferencesInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="8.6.0" last-modified="1506651013000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.6.0/bin/node" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/daimler/bin/python" value="false" />
+        <entry key="$USER_HOME$/Develop/carreport/carreportserver/ve/bin/python" value="false" />
+        <entry key="$USER_HOME$/Develop/django-demo/bin/python" value="false" />
+        <entry key="$USER_HOME$/Develop/gino/ve/bin/python" value="true" />
+        <entry key="/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.2/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.2_1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="ssh://tony@machine:22/home/tony/Arkenstone/ve/bin/python" value="true" />
+        <entry key="ssh://tony@machine:22/home/tony/deploy_bot/ve/bin/python" value="false" />
+        <entry key="ssh://tony@machine:22/home/tony/ve/bin/python" value="true" />
+        <entry key="ssh://tony@machine:22/mnt/hgfs/octantis/zjleather/ve/bin/python" value="false" />
+        <entry key="ssh://tony@machine:22/usr/bin/python" value="false" />
+        <entry key="ssh://tony@machine:22/usr/bin/python3" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/daimler/bin/python" value="false" />
+        <entry key="$USER_HOME$/Develop/carreport/carreportserver/ve/bin/python" value="true" />
+        <entry key="$USER_HOME$/Develop/django-demo/bin/python" value="false" />
+        <entry key="/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.2/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.2_1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="ssh://tony@machine:22/home/tony/Arkenstone/ve/bin/python" value="true" />
+        <entry key="ssh://tony@machine:22/home/tony/deploy_bot/ve/bin/python" value="false" />
+        <entry key="ssh://tony@machine:22/home/tony/ve/bin/python" value="false" />
+        <entry key="ssh://tony@machine:22/mnt/hgfs/octantis/zjleather/ve/bin/python" value="false" />
+        <entry key="ssh://tony@machine:22/usr/bin/python" value="true" />
+        <entry key="ssh://tony@machine:22/usr/bin/python3" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="$USER_HOME$/Develop/carreport/carreportserver/ve/bin/python" value="false" />
+        <entry key="$USER_HOME$/Develop/django-demo/bin/python" value="false" />
+        <entry key="/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.2/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.2_1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="ssh://tony@machine:22/home/tony/Arkenstone/ve/bin/python" value="false" />
+        <entry key="ssh://tony@machine:22/home/tony/deploy_bot/ve/bin/python" value="false" />
+        <entry key="ssh://tony@machine:22/home/tony/ve/bin/python" value="false" />
+        <entry key="ssh://tony@machine:22/mnt/hgfs/octantis/zjleather/ve/bin/python" value="false" />
+        <entry key="ssh://tony@machine:22/usr/bin/python" value="false" />
+        <entry key="ssh://tony@machine:22/usr/bin/python3" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
