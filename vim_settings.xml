@@ -1459,6 +1459,12 @@
       <file name="$USER_HOME$/Develop/octantis/Arkenstone/web/arkenstone/web/api/__init__.py" timestamp="1475235592078">
         <mark key="'" line="32" column="13" />
       </file>
+      <file name="$USER_HOME$/Develop/daimler-tyre/daimler/README.rst" timestamp="1506755155097">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="46" />
+      </file>
       <file name="$USER_HOME$/Develop/mojigo-server/dodo.py" timestamp="1477394458927">
         <mark key="'" line="14" column="4" />
         <mark key="[" line="43" column="0" />
@@ -1702,8 +1708,8 @@
         <mark key="^" line="80" column="66" />
         <mark key="." line="80" column="66" />
       </file>
-      <file name="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/user/api.py" timestamp="1506681549878">
-        <mark key="'" line="73" column="4" />
+      <file name="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/user/api.py" timestamp="1506753401860">
+        <mark key="'" line="55" column="16" />
         <mark key="[" line="73" column="26" />
         <mark key="]" line="73" column="31" />
         <mark key="." line="73" column="31" />
@@ -2208,8 +2214,8 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/64396567/1990462464/sqlalchemy/orm/interfaces.py" timestamp="1505359899463">
         <mark key="'" line="151" column="8" />
       </file>
-      <file name="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/user/models.py" timestamp="1506666296654">
-        <mark key="'" line="26" column="5" />
+      <file name="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/user/models.py" timestamp="1506753599717">
+        <mark key="'" line="8" column="54" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
@@ -2614,11 +2620,12 @@
         <mark key="." line="447" column="56" />
         <mark key="^" line="447" column="56" />
       </file>
-      <file name="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/db.py" timestamp="1506749716279">
-        <mark key="'" line="410" column="13" />
-        <mark key="[" line="445" column="0" />
-        <mark key="]" line="445" column="0" />
-        <mark key="." line="445" column="0" />
+      <file name="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/db.py" timestamp="1506752124633">
+        <mark key="'" line="416" column="24" />
+        <mark key="[" line="505" column="30" />
+        <mark key="]" line="505" column="35" />
+        <mark key="." line="505" column="35" />
+        <mark key="^" line="505" column="35" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/711071296/1405239563/flask/sessions.py" timestamp="1481630897373">
         <mark key="'" line="280" column="8" />
@@ -2705,6 +2712,9 @@
         <mark key="." line="100" column="0" />
         <mark key="^" line="87" column="7" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/daimler/lib/python3.6/site-packages/flask/cli.py" timestamp="1506752422866">
+        <mark key="'" line="244" column="45" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/711071296/201545290/json/__init__.py" timestamp="1477558981523">
         <mark key="'" line="161" column="4" />
       </file>
@@ -2776,6 +2786,13 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
         <mark key="^" line="30" column="43" />
+      </file>
+      <file name="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" timestamp="1506755110887">
+        <mark key="'" line="128" column="4" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+        <mark key="^" line="119" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/mojigo-api/mojigo/api/ip/models.py" timestamp="1505361235089">
         <mark key="'" line="746" column="11" />
@@ -2858,8 +2875,8 @@
         <mark key="." line="772" column="42" />
         <mark key="^" line="772" column="42" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/daimler/lib/python3.6/site-packages/flask_security/utils.py" timestamp="1506654705191">
-        <mark key="'" line="64" column="4" />
+      <file name="$USER_HOME$/.virtualenvs/daimler/lib/python3.6/site-packages/flask_security/utils.py" timestamp="1506753461415">
+        <mark key="'" line="42" column="0" />
         <mark key="[" line="84" column="35" />
         <mark key="]" line="84" column="51" />
         <mark key="." line="84" column="51" />
@@ -2949,6 +2966,9 @@
         <mark key="]" line="34" column="37" />
         <mark key="^" line="34" column="37" />
         <mark key="." line="34" column="37" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/daimler/lib/python3.6/site-packages/flask_security/changeable.py" timestamp="1506753485576">
+        <mark key="'" line="40" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/mojigo-api/mojigo/migrations/98dfe2329fc2_carousel.py" timestamp="1502866165682">
         <mark key="'" line="40" column="18" />
@@ -3395,77 +3415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="8" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/auth/Login.vue" />
-      <jump line="10" column="13" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/store/actions.js" />
-      <jump line="5" column="12" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/utils/index.js" />
-      <jump line="52" column="8" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/app.js" />
-      <jump line="18" column="12" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/app.js" />
-      <jump line="69" column="0" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/app.js" />
-      <jump line="29" column="4" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/app.js" />
-      <jump line="48" column="2" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/app.js" />
-      <jump line="83" column="0" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/components/layout/Sidebar.vue" />
-      <jump line="57" column="29" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/App.vue" />
-      <jump line="36" column="0" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/store/index.js" />
-      <jump line="61" column="4" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/app.js" />
-      <jump line="3" column="21" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/App.vue" />
-      <jump line="58" column="6" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/App.vue" />
-      <jump line="54" column="11" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/App.vue" />
-      <jump line="72" column="0" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/app.js" />
-      <jump line="66" column="4" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/store/modules/menu/index.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/store/modules/menu/index.js" />
-      <jump line="34" column="5" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/store/modules/menu/index.js" />
-      <jump line="58" column="8" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/auth/Login.vue" />
-      <jump line="47" column="26" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/app.js" />
-      <jump line="67" column="22" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/app.js" />
-      <jump line="41" column="5" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/store/modules/menu/index.js" />
-      <jump line="71" column="4" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/store/modules/menu/index.js" />
-      <jump line="48" column="8" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/store/modules/menu/index.js" />
-      <jump line="10" column="6" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/store/modules/menu/index.js" />
-      <jump line="7" column="34" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/dealer/api.py" />
-      <jump line="10" column="3" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/dealer/api.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/dealer/api.py" />
-      <jump line="14" column="13" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/dealer/models.py" />
-      <jump line="44" column="4" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/users/index.vue" />
-      <jump line="27" column="7" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/dealers/index.vue" />
-      <jump line="45" column="5" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/dealers/index.vue" />
-      <jump line="49" column="43" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/dealers/index.vue" />
-      <jump line="31" column="4" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/store/modules/menu/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/dealers/index.vue" />
-      <jump line="33" column="14" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/store/modules/menu/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/store/modules/menu/index.js" />
-      <jump line="28" column="34" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/store/modules/menu/index.js" />
-      <jump line="39" column="36" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/store/modules/menu/index.js" />
-      <jump line="50" column="35" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/store/modules/menu/index.js" />
-      <jump line="61" column="35" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/store/modules/menu/index.js" />
-      <jump line="11" column="14" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/store/modules/menu/index.js" />
-      <jump line="9" column="17" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/tyres/index.vue" />
-      <jump line="14" column="35" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/tyres/index.vue" />
-      <jump line="15" column="24" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/tyres/index.vue" />
-      <jump line="16" column="24" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/tyres/index.vue" />
-      <jump line="39" column="12" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/tyres/index.vue" />
-      <jump line="44" column="27" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/tyres/index.vue" />
-      <jump line="45" column="17" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/tyres/index.vue" />
-      <jump line="10" column="16" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/vehicle/api.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/tyres/index.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/vehicle/models.py" />
-      <jump line="18" column="4" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/vehicle/models.py" />
-      <jump line="16" column="4" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/vehicle/models.py" />
-      <jump line="17" column="4" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/vehicle/models.py" />
-      <jump line="45" column="12" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/vehicle/models.py" />
-      <jump line="9" column="36" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/vehicle/api.py" />
-      <jump line="16" column="26" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/coupons/index.vue" />
-      <jump line="39" column="14" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/coupons/index.vue" />
-      <jump line="44" column="29" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/coupons/index.vue" />
-      <jump line="45" column="19" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/coupons/index.vue" />
-      <jump line="13" column="4" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/order/models.py" />
-      <jump line="11" column="18" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/order/api.py" />
-      <jump line="3" column="25" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/order/api.py" />
-      <jump line="102" column="4" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/order/models.py" />
-      <jump line="114" column="4" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/order/models.py" />
-      <jump line="108" column="35" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/order/models.py" />
-      <jump line="87" column="34" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/order/models.py" />
-      <jump line="13" column="12" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/coupons/index.vue" />
-      <jump line="26" column="0" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/dealer/models.py" />
       <jump line="18" column="25" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/orders/index.vue" />
       <jump line="41" column="13" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/orders/index.vue" />
       <jump line="46" column="28" filename="$USER_HOME$/Develop/daimler-tyre/dtool/client/views/orders/index.vue" />
@@ -3495,6 +3444,77 @@
       <jump line="175" column="4" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/migrations/c11e0a73979c_initial.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/migrations/7fc81c21a257_add_order_update_triggers.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/migrations/e4ea88edf8d4_add_roles.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Develop/daimler-tyre/daimler/README.rst" />
+      <jump line="10" column="0" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="416" column="24" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/db.py" />
+      <jump line="53" column="16" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="41" column="20" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="55" column="16" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="244" column="45" filename="$USER_HOME$/.virtualenvs/daimler/lib/python3.6/site-packages/flask/cli.py" />
+      <jump line="12" column="13" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="13" column="15" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="18" column="27" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="26" column="13" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="27" column="16" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="54" column="7" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="42" column="20" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="3" column="7" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="32" column="4" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="63" column="8" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="14" column="4" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/user/models.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/user/api.py" />
+      <jump line="4" column="33" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/user/api.py" />
+      <jump line="55" column="16" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/user/api.py" />
+      <jump line="161" column="24" filename="$USER_HOME$/.virtualenvs/daimler/lib/python3.6/site-packages/flask_security/utils.py" />
+      <jump line="172" column="18" filename="$USER_HOME$/.virtualenvs/daimler/lib/python3.6/site-packages/flask_security/utils.py" />
+      <jump line="177" column="20" filename="$USER_HOME$/.virtualenvs/daimler/lib/python3.6/site-packages/flask_security/utils.py" />
+      <jump line="180" column="11" filename="$USER_HOME$/.virtualenvs/daimler/lib/python3.6/site-packages/flask_security/utils.py" />
+      <jump line="156" column="8" filename="$USER_HOME$/.virtualenvs/daimler/lib/python3.6/site-packages/flask_security/utils.py" />
+      <jump line="160" column="20" filename="$USER_HOME$/.virtualenvs/daimler/lib/python3.6/site-packages/flask_security/utils.py" />
+      <jump line="158" column="19" filename="$USER_HOME$/.virtualenvs/daimler/lib/python3.6/site-packages/flask_security/utils.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.virtualenvs/daimler/lib/python3.6/site-packages/flask_security/utils.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/.virtualenvs/daimler/lib/python3.6/site-packages/flask_security/utils.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.virtualenvs/daimler/lib/python3.6/site-packages/flask_security/changeable.py" />
+      <jump line="16" column="33" filename="$USER_HOME$/.virtualenvs/daimler/lib/python3.6/site-packages/flask_security/changeable.py" />
+      <jump line="40" column="20" filename="$USER_HOME$/.virtualenvs/daimler/lib/python3.6/site-packages/flask_security/changeable.py" />
+      <jump line="58" column="43" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="78" column="4" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="11" column="6" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/user/models.py" />
+      <jump line="19" column="4" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/user/models.py" />
+      <jump line="50" column="21" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/user/models.py" />
+      <jump line="8" column="54" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/user/models.py" />
+      <jump line="60" column="28" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="74" column="16" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="61" column="4" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="71" column="30" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="70" column="15" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="65" column="15" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="76" column="2" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="95" column="49" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="51" column="16" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="101" column="24" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="80" column="23" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="94" column="2" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="96" column="7" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="69" column="16" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="79" column="23" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="83" column="11" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="98" column="23" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="102" column="11" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="121" column="31" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="87" column="8" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="67" column="4" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="92" column="64" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="66" column="24" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="119" column="44" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="56" column="8" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="113" column="15" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
+      <jump line="128" column="4" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/cli.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5668,49 +5688,49 @@
         <text>kk</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text encoding="base64">IHthY2NvdW50fQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHByZXNzaW9uXD4=</text>
+        <text>--user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8dGg+6aKE57qm5pe26Ze0PC90aD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJDYW4ndCBmaW5kIHVzZXIge2FjY291bnR9IikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgYnBkYjticGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgdXNlcjoKICAgICAgICAgICAgcHJpbnQoZiJDYW4ndCBmaW5kIHVzZXIge2FjY291bnR9IikKICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgYnBkYjticGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyb20gZmxhc2tfc2VjdXJpdHkudXRpbHMgaW1wb3J0IGhhc2hfcGFzc3dvcmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBwYXNzd29yZDoKICAgICAgICAgICAgdXNlci5wYXNzd29yZCA9IGhhc2hfcGFzc3dvcmQocGFzc3dvcmQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgpjbGFzcyBTcGF0aWFsUmVmU3lzKHNhLk1vZGVsKToKICAgIF9fdGFibGVuYW1lX18gPSAnc3BhdGlhbF9yZWZfc3lzJwoKICAgIHNyaWQgPSBzYS5Db2x1bW4oc2EuSW50ZWdlcigpLCBwcmltYXJ5X2tleT1UcnVlKQogICAgYXV0aF9uYW1lID0gc2EuQ29sdW1uKHNhLlVuaWNvZGUoKSkKICAgIGF1dGhfc3JpZCA9IHNhLkNvbHVtbihzYS5JbnRlZ2VyKCkpCiAgICBzcnRleHQgPSBzYS5Db2x1bW4oc2EuVW5pY29kZSgpKQogICAgcHJvajR0ZXh0ID0gc2EuQ29sdW1uKHNhLlVuaWNvZGUoKSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBwYXNzd29yZDoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>106</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleHByZXNzaW9uXD4=</last-search>
+      <last-search>--user</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHByZXNzaW9uXD4=</last-pattern>
+      <last-pattern>--user</last-pattern>
       <last-replace>\\n'</last-replace>
       <last-substitute>'$</last-substitute>
       <last-dir>1</last-dir>
@@ -5718,29 +5738,28 @@
     </search>
     <history>
       <history-search>
-        <entry>visi</entry>
-        <entry>users</entry>
-        <entry>dealers</entry>
-        <entry>brand</entry>
-        <entry encoding="base64">XDxicmFuZFw+</entry>
-        <entry encoding="base64">XDxoYWJpdGF0XD4=</entry>
-        <entry encoding="base64">XDx1c2VyXD4=</entry>
-        <entry>coupon</entry>
-        <entry>ims</entry>
-        <entry>user</entry>
-        <entry>orderitem</entry>
-        <entry>geo</entry>
-        <entry>location</entry>
-        <entry encoding="base64">XDxHZW9tZXRyeVw+</entry>
-        <entry>float</entry>
-        <entry>double</entry>
         <entry>decimal</entry>
         <entry>after_get</entry>
         <entry encoding="base64">XDxhZnRlcl9nZXRcPg==</entry>
         <entry encoding="base64">XDxleHByZXNzaW9uXD4=</entry>
+        <entry>scriptinfo</entry>
+        <entry>info</entry>
+        <entry>click</entry>
+        <entry>verify</entry>
+        <entry encoding="base64">XDx2ZXJpZnlfYW5kX3VwZGF0ZV9wYXNzd29yZFw+</entry>
+        <entry encoding="base64">XDxfcHdkX2NvbnRleHRcPg==</entry>
+        <entry encoding="base64">XDxoYXNoX3Bhc3N3b3JkXD4=</entry>
+        <entry>roles</entry>
+        <entry encoding="base64">XDxyb2xlc1w+</entry>
+        <entry encoding="base64">XDxyb2xlXD4=</entry>
+        <entry>required</entry>
+        <entry>add_users</entry>
+        <entry>user_</entry>
+        <entry>query</entry>
+        <entry>user</entry>
+        <entry>--user</entry>
       </history-search>
       <history-cmd>
-        <entry>397</entry>
         <entry>444</entry>
         <entry>430</entry>
         <entry>700</entry>
@@ -5760,6 +5779,7 @@
         <entry>qa</entry>
         <entry>21</entry>
         <entry>w</entry>
+        <entry>106</entry>
       </history-cmd>
       <history-expr />
       <history-input />
