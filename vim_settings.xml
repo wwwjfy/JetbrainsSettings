@@ -1987,10 +1987,10 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/711071296/1405239563/doit/task.py" timestamp="1477365756187">
         <mark key="'" line="387" column="42" />
       </file>
-      <file name="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" timestamp="1506940322375">
+      <file name="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" timestamp="1506953400330">
         <mark key="'" line="91" column="4" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
+        <mark key="[" line="99" column="17" />
+        <mark key="]" line="387" column="7" />
         <mark key="^" line="67" column="25" />
         <mark key="." line="67" column="0" />
       </file>
@@ -3616,7 +3616,295 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>add_column</text>
+        <text>[{
+        name: '155/60 R15',
+        value: '15560r15'
+      }, {
+        name: '165/65 R15',
+        value: '16565r15'
+      }, {
+        name: '175/55 R15',
+        value: '17555r15'
+      }, {
+        name: '185/50 R16',
+        value: '18550r16'
+      }, {
+        name: '185/60 R15',
+        value: '18560r15'
+      }, {
+        name: '185/65 R15',
+        value: '18565r15'
+      }, {
+        name: '195/50 R15',
+        value: '19550r15'
+      }, {
+        name: '195/55 R15',
+        value: '19555r15'
+      }, {
+        name: '195/55 R16',
+        value: '19555r16'
+      }, {
+        name: '205/45 R16',
+        value: '20545r16'
+      }, {
+        name: '205/55 R16',
+        value: '20555r16'
+      }, {
+        name: '215/45 R17',
+        value: '21545r17'
+      }, {
+        name: '215/50 R17',
+        value: '21550r17'
+      }, {
+        name: '215/55 R16',
+        value: '21555r16'
+      }, {
+        name: '215/60 R16',
+        value: '21560r16'
+      }, {
+        name: '225/40 R18',
+        value: '22540r18'
+      }, {
+        name: '225/40 R19',
+        value: '22540r19'
+      }, {
+        name: '225/45 R17',
+        value: '22545r17'
+      }, {
+        name: '225/45 R18',
+        value: '22545r18'
+      }, {
+        name: '225/50 R16',
+        value: '22550r16'
+      }, {
+        name: '225/50 R17',
+        value: '22550r17'
+      }, {
+        name: '225/55 R16',
+        value: '22555r16'
+      }, {
+        name: '225/55 R17',
+        value: '22555r17'
+      }, {
+        name: '225/60 R16',
+        value: '22560r16'
+      }, {
+        name: '235/35 R19',
+        value: '23535r19'
+      }, {
+        name: '235/40 R18',
+        value: '23540r18'
+      }, {
+        name: '235/40 R20',
+        value: '23540r20'
+      }, {
+        name: '235/45 R17',
+        value: '23545r17'
+      }, {
+        name: '235/45 R19',
+        value: '23545r19'
+      }, {
+        name: '235/45 R20',
+        value: '23545r20'
+      }, {
+        name: '235/50 R18',
+        value: '23550r18'
+      }, {
+        name: '235/50 R19',
+        value: '23550r19'
+      }, {
+        name: '235/55 R17',
+        value: '23555r17'
+      }, {
+        name: '235/55 R19',
+        value: '23555r19'
+      }, {
+        name: '235/60 R17',
+        value: '23560r17'
+      }, {
+        name: '235/60 R18',
+        value: '23560r18'
+      }, {
+        name: '235/65 R17',
+        value: '23565r17'
+      }, {
+        name: '245/35 R18',
+        value: '24535r18'
+      }, {
+        name: '245/35 R19',
+        value: '24535r19'
+      }, {
+        name: '245/35 R20',
+        value: '24535r20'
+      }, {
+        name: '245/40 R17',
+        value: '24540r17'
+      }, {
+        name: '245/40 R18',
+        value: '24540r18'
+      }, {
+        name: '245/40 R19',
+        value: '24540r19'
+      }, {
+        name: '245/40 R20',
+        value: '24540r20'
+      }, {
+        name: '245/45 R17',
+        value: '24545r17'
+      }, {
+        name: '245/45 R18',
+        value: '24545r18'
+      }, {
+        name: '245/45 R19',
+        value: '24545r19'
+      }, {
+        name: '245/50 R18',
+        value: '24550r18'
+      }, {
+        name: '255/30 R19',
+        value: '25530r19'
+      }, {
+        name: '255/35 R18',
+        value: '25535r18'
+      }, {
+        name: '255/35 R19',
+        value: '25535r19'
+      }, {
+        name: '255/35 R20',
+        value: '25535r20'
+      }, {
+        name: '255/40 R18',
+        value: '25540r18'
+      }, {
+        name: '255/40 R19',
+        value: '25540r19'
+      }, {
+        name: '255/40 R20',
+        value: '25540r20'
+      }, {
+        name: '255/45 R17',
+        value: '25545r17'
+      }, {
+        name: '255/45 R18',
+        value: '25545r18'
+      }, {
+        name: '255/45 R19',
+        value: '25545r19'
+      }, {
+        name: '255/45 R20',
+        value: '25545r20'
+      }, {
+        name: '255/50 R17',
+        value: '25550r17'
+      }, {
+        name: '255/50 R19',
+        value: '25550r19'
+      }, {
+        name: '255/55 R17',
+        value: '25555r17'
+      }, {
+        name: '255/55 R18',
+        value: '25555r18'
+      }, {
+        name: '265/35 R18',
+        value: '26535r18'
+      }, {
+        name: '265/35 R19',
+        value: '26535r19'
+      }, {
+        name: '265/40 R18',
+        value: '26540r18'
+      }, {
+        name: '265/40 R21',
+        value: '26540r21'
+      }, {
+        name: '265/45 R20',
+        value: '26545r20'
+      }, {
+        name: '265/60 R18',
+        value: '26560r18'
+      }, {
+        name: '275/30 R19',
+        value: '27530r19'
+      }, {
+        name: '275/30 R20',
+        value: '27530r20'
+      }, {
+        name: '275/35 R18',
+        value: '27535r18'
+      }, {
+        name: '275/35 R19',
+        value: '27535r19'
+      }, {
+        name: '275/35 R20',
+        value: '27535r20'
+      }, {
+        name: '275/40 R18',
+        value: '27540r18'
+      }, {
+        name: '275/40 R19',
+        value: '27540r19'
+      }, {
+        name: '275/45 R18',
+        value: '27545r18'
+      }, {
+        name: '275/45 R20',
+        value: '27545r20'
+      }, {
+        name: '275/45 R21',
+        value: '27545r21'
+      }, {
+        name: '275/50 R19',
+        value: '27550r19'
+      }, {
+        name: '275/50 R20',
+        value: '27550r20'
+      }, {
+        name: '275/55 R19',
+        value: '27555r19'
+      }, {
+        name: '285/30 R19',
+        value: '28530r19'
+      }, {
+        name: '285/35 R18',
+        value: '28535r18'
+      }, {
+        name: '285/35 R20',
+        value: '28535r20'
+      }, {
+        name: '285/40 R19',
+        value: '28540r19'
+      }, {
+        name: '285/40 R22',
+        value: '28540r22'
+      }, {
+        name: '285/45 R19',
+        value: '28545r19'
+      }, {
+        name: '295/30 R20',
+        value: '29530r20'
+      }, {
+        name: '295/35 R21',
+        value: '29535r21'
+      }, {
+        name: '295/40 R20',
+        value: '29540r20'
+      }, {
+        name: '295/40 R21',
+        value: '29540r21'
+      }, {
+        name: '295/45 R19',
+        value: '29545r19'
+      }, {
+        name: '315/40 R21',
+        value: '31540r21'
+      }, {
+        name: '325/35 R22',
+        value: '32535r22'
+      }, {
+        name: '345/50 R18',
+        value: '34550r18'
+      }]</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5784,8 +6072,296 @@
       <register name="/" type="4">
         <text>Query</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZGVscy5hcHBlbmQoZGljdChuYW1lPWl0ZW0ubW9kZWwsIHBhcmVudD1pdGVtLnNlcmllcywgdmFsdWU9aXRlbS5pZCkpCg==</text>
+      <register name="0" type="4">
+        <text>[{
+        name: '155/60 R15',
+        value: '15560r15'
+      }, {
+        name: '165/65 R15',
+        value: '16565r15'
+      }, {
+        name: '175/55 R15',
+        value: '17555r15'
+      }, {
+        name: '185/50 R16',
+        value: '18550r16'
+      }, {
+        name: '185/60 R15',
+        value: '18560r15'
+      }, {
+        name: '185/65 R15',
+        value: '18565r15'
+      }, {
+        name: '195/50 R15',
+        value: '19550r15'
+      }, {
+        name: '195/55 R15',
+        value: '19555r15'
+      }, {
+        name: '195/55 R16',
+        value: '19555r16'
+      }, {
+        name: '205/45 R16',
+        value: '20545r16'
+      }, {
+        name: '205/55 R16',
+        value: '20555r16'
+      }, {
+        name: '215/45 R17',
+        value: '21545r17'
+      }, {
+        name: '215/50 R17',
+        value: '21550r17'
+      }, {
+        name: '215/55 R16',
+        value: '21555r16'
+      }, {
+        name: '215/60 R16',
+        value: '21560r16'
+      }, {
+        name: '225/40 R18',
+        value: '22540r18'
+      }, {
+        name: '225/40 R19',
+        value: '22540r19'
+      }, {
+        name: '225/45 R17',
+        value: '22545r17'
+      }, {
+        name: '225/45 R18',
+        value: '22545r18'
+      }, {
+        name: '225/50 R16',
+        value: '22550r16'
+      }, {
+        name: '225/50 R17',
+        value: '22550r17'
+      }, {
+        name: '225/55 R16',
+        value: '22555r16'
+      }, {
+        name: '225/55 R17',
+        value: '22555r17'
+      }, {
+        name: '225/60 R16',
+        value: '22560r16'
+      }, {
+        name: '235/35 R19',
+        value: '23535r19'
+      }, {
+        name: '235/40 R18',
+        value: '23540r18'
+      }, {
+        name: '235/40 R20',
+        value: '23540r20'
+      }, {
+        name: '235/45 R17',
+        value: '23545r17'
+      }, {
+        name: '235/45 R19',
+        value: '23545r19'
+      }, {
+        name: '235/45 R20',
+        value: '23545r20'
+      }, {
+        name: '235/50 R18',
+        value: '23550r18'
+      }, {
+        name: '235/50 R19',
+        value: '23550r19'
+      }, {
+        name: '235/55 R17',
+        value: '23555r17'
+      }, {
+        name: '235/55 R19',
+        value: '23555r19'
+      }, {
+        name: '235/60 R17',
+        value: '23560r17'
+      }, {
+        name: '235/60 R18',
+        value: '23560r18'
+      }, {
+        name: '235/65 R17',
+        value: '23565r17'
+      }, {
+        name: '245/35 R18',
+        value: '24535r18'
+      }, {
+        name: '245/35 R19',
+        value: '24535r19'
+      }, {
+        name: '245/35 R20',
+        value: '24535r20'
+      }, {
+        name: '245/40 R17',
+        value: '24540r17'
+      }, {
+        name: '245/40 R18',
+        value: '24540r18'
+      }, {
+        name: '245/40 R19',
+        value: '24540r19'
+      }, {
+        name: '245/40 R20',
+        value: '24540r20'
+      }, {
+        name: '245/45 R17',
+        value: '24545r17'
+      }, {
+        name: '245/45 R18',
+        value: '24545r18'
+      }, {
+        name: '245/45 R19',
+        value: '24545r19'
+      }, {
+        name: '245/50 R18',
+        value: '24550r18'
+      }, {
+        name: '255/30 R19',
+        value: '25530r19'
+      }, {
+        name: '255/35 R18',
+        value: '25535r18'
+      }, {
+        name: '255/35 R19',
+        value: '25535r19'
+      }, {
+        name: '255/35 R20',
+        value: '25535r20'
+      }, {
+        name: '255/40 R18',
+        value: '25540r18'
+      }, {
+        name: '255/40 R19',
+        value: '25540r19'
+      }, {
+        name: '255/40 R20',
+        value: '25540r20'
+      }, {
+        name: '255/45 R17',
+        value: '25545r17'
+      }, {
+        name: '255/45 R18',
+        value: '25545r18'
+      }, {
+        name: '255/45 R19',
+        value: '25545r19'
+      }, {
+        name: '255/45 R20',
+        value: '25545r20'
+      }, {
+        name: '255/50 R17',
+        value: '25550r17'
+      }, {
+        name: '255/50 R19',
+        value: '25550r19'
+      }, {
+        name: '255/55 R17',
+        value: '25555r17'
+      }, {
+        name: '255/55 R18',
+        value: '25555r18'
+      }, {
+        name: '265/35 R18',
+        value: '26535r18'
+      }, {
+        name: '265/35 R19',
+        value: '26535r19'
+      }, {
+        name: '265/40 R18',
+        value: '26540r18'
+      }, {
+        name: '265/40 R21',
+        value: '26540r21'
+      }, {
+        name: '265/45 R20',
+        value: '26545r20'
+      }, {
+        name: '265/60 R18',
+        value: '26560r18'
+      }, {
+        name: '275/30 R19',
+        value: '27530r19'
+      }, {
+        name: '275/30 R20',
+        value: '27530r20'
+      }, {
+        name: '275/35 R18',
+        value: '27535r18'
+      }, {
+        name: '275/35 R19',
+        value: '27535r19'
+      }, {
+        name: '275/35 R20',
+        value: '27535r20'
+      }, {
+        name: '275/40 R18',
+        value: '27540r18'
+      }, {
+        name: '275/40 R19',
+        value: '27540r19'
+      }, {
+        name: '275/45 R18',
+        value: '27545r18'
+      }, {
+        name: '275/45 R20',
+        value: '27545r20'
+      }, {
+        name: '275/45 R21',
+        value: '27545r21'
+      }, {
+        name: '275/50 R19',
+        value: '27550r19'
+      }, {
+        name: '275/50 R20',
+        value: '27550r20'
+      }, {
+        name: '275/55 R19',
+        value: '27555r19'
+      }, {
+        name: '285/30 R19',
+        value: '28530r19'
+      }, {
+        name: '285/35 R18',
+        value: '28535r18'
+      }, {
+        name: '285/35 R20',
+        value: '28535r20'
+      }, {
+        name: '285/40 R19',
+        value: '28540r19'
+      }, {
+        name: '285/40 R22',
+        value: '28540r22'
+      }, {
+        name: '285/45 R19',
+        value: '28545r19'
+      }, {
+        name: '295/30 R20',
+        value: '29530r20'
+      }, {
+        name: '295/35 R21',
+        value: '29535r21'
+      }, {
+        name: '295/40 R20',
+        value: '29540r20'
+      }, {
+        name: '295/40 R21',
+        value: '29540r21'
+      }, {
+        name: '295/45 R19',
+        value: '29545r19'
+      }, {
+        name: '315/40 R21',
+        value: '31540r21'
+      }, {
+        name: '325/35 R22',
+        value: '32535r22'
+      }, {
+        name: '345/50 R18',
+        value: '34550r18'
+      }]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChUeXJlLnF1ZXJ5KQo=</text>
