@@ -5799,7 +5799,7 @@
         <text>sepcs</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0eXJlX3NwZWNzXD4=</text>
+        <text>amap</text>
       </register>
       <register name="0" type="4">
         <text>VehicleXTyreSpec</text>
@@ -5836,17 +5836,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0eXJlX3NwZWNzXD4=</last-search>
+      <last-search>amap</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0eXJlX3NwZWNzXD4=</last-pattern>
+      <last-pattern>amap</last-pattern>
       <last-replace>\\n'</last-replace>
       <last-substitute>'$</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>query</entry>
         <entry encoding="base64">XDxxdWVyeVw+</entry>
         <entry>Query</entry>
         <entry>app</entry>
@@ -5866,6 +5865,7 @@
         <entry>children</entry>
         <entry encoding="base64">XDxjaGlsZHJlblw+</entry>
         <entry encoding="base64">XDx0eXJlX3NwZWNzXD4=</entry>
+        <entry>amap</entry>
       </history-search>
       <history-cmd>
         <entry>252</entry>
