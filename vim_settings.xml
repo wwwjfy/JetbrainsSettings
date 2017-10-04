@@ -186,8 +186,8 @@
       <file name="$USER_HOME$/Develop/mojigo-api/mojigo/migrations/ce4466a634e3_comments_count_trigger.py" timestamp="1504598642000">
         <mark key="'" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/components/picker/chain.js" timestamp="1507040621058">
-        <mark key="'" line="31" column="25" />
+      <file name="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/components/picker/chain.js" timestamp="1507099803717">
+        <mark key="'" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Develop/octantis/Arkenstone/vbo/vbo/invoicing/filters.py" timestamp="1475210066036">
         <mark key="'" line="231" column="21" />
@@ -310,8 +310,8 @@
       <file name="$USER_HOME$/Develop/mojigo-api/mojigo/__init__.py" timestamp="1478765881521">
         <mark key="'" line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/components/picker/index.vue" timestamp="1507040515559">
-        <mark key="'" line="2" column="21" />
+      <file name="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/components/picker/index.vue" timestamp="1507099813307">
+        <mark key="'" line="14" column="7" />
       </file>
       <file name="$USER_HOME$/Develop/mojigo-api/mojigo/local_config.py" timestamp="1498189863405">
         <mark key="'" line="0" column="0" />
@@ -1756,8 +1756,8 @@
         <mark key="." line="73" column="31" />
         <mark key="^" line="73" column="31" />
       </file>
-      <file name="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/filters/value2name.js" timestamp="1507044419814">
-        <mark key="'" line="4" column="6" />
+      <file name="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/filters/value2name.js" timestamp="1507100143726">
+        <mark key="'" line="1" column="24" />
         <mark key="[" line="27" column="38" />
         <mark key="]" line="27" column="15" />
         <mark key="." line="27" column="15" />
@@ -2009,12 +2009,12 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/711071296/1405239563/doit/task.py" timestamp="1477365756187">
         <mark key="'" line="387" column="42" />
       </file>
-      <file name="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" timestamp="1507092364036">
-        <mark key="'" line="105" column="12" />
-        <mark key="[" line="66" column="19" />
-        <mark key="]" line="66" column="7" />
-        <mark key="." line="66" column="7" />
-        <mark key="^" line="66" column="7" />
+      <file name="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" timestamp="1507100747148">
+        <mark key="'" line="51" column="24" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="70" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/decentfox/bmw-ml/server/api/api/v1/views.py" timestamp="1476172897908">
         <mark key="'" line="0" column="0" />
@@ -3540,19 +3540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="46" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/vehicle/models.py" />
-      <jump line="85" column="15" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/vehicle/models.py" />
-      <jump line="17" column="18" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/vehicle/models.py" />
-      <jump line="36" column="4" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/dealer/models.py" />
-      <jump line="25" column="15" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/dealer/models.py" />
-      <jump line="19" column="25" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/vehicle/api.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/api/vehicle/models.py" />
-      <jump line="15" column="16" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/migrations/ab5a7e4ea0b3_add_tyre_brands.py" />
-      <jump line="37" column="4" filename="$USER_HOME$/Develop/daimler-tyre/daimler/daimler/migrations/ab5a7e4ea0b3_add_tyre_brands.py" />
-      <jump line="133" column="4" filename="$USER_HOME$/Develop/daimler-tyre/daimler/fake_data.py" />
-      <jump line="2" column="54" filename="$USER_HOME$/Develop/daimler-tyre/daimler/fake_data.py" />
-      <jump line="145" column="25" filename="$USER_HOME$/Develop/daimler-tyre/daimler/fake_data.py" />
-      <jump line="143" column="7" filename="$USER_HOME$/Develop/daimler-tyre/daimler/fake_data.py" />
       <jump line="124" column="0" filename="$USER_HOME$/Develop/daimler-tyre/daimler/fake_data.py" />
       <jump line="142" column="27" filename="$USER_HOME$/Develop/daimler-tyre/daimler/fake_data.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/daimler-tyre/daimler/fake_data.py" />
@@ -3572,7 +3559,6 @@
       <jump line="72" column="6" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
       <jump line="120" column="2" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
       <jump line="102" column="0" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
       <jump line="56" column="4" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
       <jump line="49" column="47" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
       <jump line="95" column="7" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/index.js" />
@@ -3590,7 +3576,6 @@
       <jump line="13" column="123" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/components/popup-picker/index.vue" />
       <jump line="67" column="38" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/components/popup-picker/index.vue" />
       <jump line="5" column="4" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/filters/value2name.js" />
-      <jump line="13" column="6" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/filters/value2name.js" />
       <jump line="14" column="8" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/filters/value2name.js" />
       <jump line="17" column="6" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/filters/value2name.js" />
       <jump line="18" column="8" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/filters/value2name.js" />
@@ -3609,7 +3594,6 @@
       <jump line="55" column="28" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/TyrePicker.vue" />
       <jump line="93" column="0" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
       <jump line="64" column="2" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/TyrePicker.vue" />
-      <jump line="129" column="0" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
       <jump line="50" column="27" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
       <jump line="28" column="28" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/TyrePicker.vue" />
       <jump line="53" column="2" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
@@ -3626,20 +3610,36 @@
       <jump line="149" column="2" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/store/index.js" />
       <jump line="148" column="0" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/store/index.js" />
       <jump line="77" column="28" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
-      <jump line="67" column="28" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
       <jump line="128" column="0" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
       <jump line="37" column="0" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
       <jump line="60" column="2" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
-      <jump line="7" column="40" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
       <jump line="98" column="6" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
       <jump line="36" column="2" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
-      <jump line="73" column="8" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
-      <jump line="66" column="6" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
       <jump line="110" column="23" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
       <jump line="124" column="10" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
       <jump line="125" column="26" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
       <jump line="126" column="43" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
       <jump line="105" column="12" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
+      <jump line="7" column="40" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
+      <jump line="8" column="29" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
+      <jump line="129" column="0" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
+      <jump line="73" column="8" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
+      <jump line="61" column="4" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
+      <jump line="63" column="33" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
+      <jump line="104" column="4" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
+      <jump line="67" column="8" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
+      <jump line="26" column="0" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/components/picker/chain.js" />
+      <jump line="6" column="19" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/components/picker/chain.js" />
+      <jump line="53" column="8" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/components/picker/chain.js" />
+      <jump line="0" column="7" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/components/picker/chain.js" />
+      <jump line="2" column="21" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/components/picker/index.vue" />
+      <jump line="1" column="0" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/components/picker/index.vue" />
+      <jump line="14" column="7" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/components/picker/index.vue" />
+      <jump line="66" column="18" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
+      <jump line="13" column="13" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/filters/value2name.js" />
+      <jump line="1" column="24" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/node_modules/vux/src/filters/value2name.js" />
+      <jump line="51" column="24" filename="$USER_HOME$/Develop/daimler-tyre/mini-mall/src/pages/CarPicker.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3649,8 +3649,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmluZm8odmVoaWNsZSkK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -5813,21 +5813,36 @@
         <text>kk</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNwb25zZVw+</text>
+        <text encoding="base64">XDxmaW5kXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgdGhpcy4kaHR0cC5nZXQoJy92ZWhpY2xlX3BpY2tlcl9kYXRhJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmluZm8odmVoaWNsZSkK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUuaW5mbyh0eXBlb2YgdmFsdWVbMV0pCiAgICAgICAgICBjb25zb2xlLmluZm8odHlwZW9mIHYudmFsdWUpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnZlaGljbGVDaG9pY2VzLmluZGV4T2YoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YWx1ZVsxXQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ZmluZCgodikgPT4gewoKICAgICAgICB9KQ==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>[{
         id: 1,
         brand: 'bridgestone',
@@ -5846,32 +5861,17 @@
         title: '米其林'
       }]</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5pbmZvKGEpCiAgICAgIHJldHVybiBhCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgYiwgYl9uYW1lIGluIHR5cmVfYnJhbmRzLml0ZW1zKCk6Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc19wcm9wZXJ0eQogICAgZGVmIGJyYW5kcyhzZWxmKToKICAgICAgICByZXR1cm4gVHlyZS5xdWVyeS53aXRoX2VudGl0aWVzKFR5cmUuYnJhbmQuZGlzdGluY3QoKSkuYWxsKCkKCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>78</text>
+        <text>52</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNwb25zZVw+</last-search>
+      <last-search encoding="base64">XDxmaW5kXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNwb25zZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxmaW5kXD4=</last-pattern>
       <last-replace>\\n'</last-replace>
       <last-substitute>'$</last-substitute>
       <last-dir>1</last-dir>
@@ -5879,12 +5879,6 @@
     </search>
     <history>
       <history-search>
-        <entry>showname</entry>
-        <entry>showName</entry>
-        <entry encoding="base64">XDxkaXNwbGF5Rm9ybWF0XD4=</entry>
-        <entry encoding="base64">XDx2YWx1ZTJuYW1lXD4=</entry>
-        <entry>return</entry>
-        <entry>one</entry>
         <entry encoding="base64">XDxvbmVcPg==</entry>
         <entry>parent</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
@@ -5899,9 +5893,14 @@
         <entry encoding="base64">XDx2ZWhpY2xlQ2hvaWNlc1w+</entry>
         <entry>response</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
+        <entry>vehicle</entry>
+        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
+        <entry encoding="base64">XDx2ZWhpY2xlXD4=</entry>
+        <entry>find</entry>
+        <entry>filter</entry>
+        <entry encoding="base64">XDxmaW5kXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>q:qa</entry>
         <entry>qa</entry>
         <entry>106</entry>
         <entry>62</entry>
@@ -5921,6 +5920,7 @@
         <entry>130</entry>
         <entry>w</entry>
         <entry>78</entry>
+        <entry>52</entry>
       </history-cmd>
       <history-expr />
       <history-input />
